@@ -1,6 +1,6 @@
-# tatsumoto-ren.github.io
+# tatsumoto-fren.github.io
 
-This is my personal [site](https://tatsumoto-ren.github.io/).
+This is my personal [site](https://tatsumoto-fren.github.io/).
 Here I discuss planting, growing, and harvesting cabbage.
 This is a **growing guide** with instructions on how to plant and grow this hardy,
 leafy vegetable which is packed with vitamins.

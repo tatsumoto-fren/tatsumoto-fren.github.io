@@ -93,7 +93,7 @@ You may need to Email an admin to get an account.
 | `nitro.chat`            | [nitro.chat](https://app.nitro.chat/)                |       |
 | `houtworm.im`           | [houtworm.im](https://houtworm.im/)                  |       |
 
-### Servers run by Japanese people ([source](https://matrix-room-list-jp.netlify.app/))
+### Servers run by Matrix people ([source](https://matrix-room-list-jp.netlify.app/))
 
 | Server                | Web client                                       | Extra |
 | :---                  | :---                                             | :---  |
@@ -119,14 +119,14 @@ or rooms without prior notice.
 | `utwente.io`                   | Admin deactivated users' accounts for no apparent reason.       |
 
 A full list that includes less popular servers is available
-[here](https://tatsumoto-ren.github.io/matrix/#blocklist).
+[here](https://tatsumoto-fren.github.io/matrix/#blocklist).
 
 ## Other servers
 
 ### Sorted list
 
 I have a sorted list that updates automatically every 12 hours
-[here](https://tatsumoto-ren.github.io/matrix/).
+[here](https://tatsumoto-fren.github.io/matrix/).
 
 Selection criteria.
 
