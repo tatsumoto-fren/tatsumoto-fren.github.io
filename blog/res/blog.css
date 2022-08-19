@@ -958,21 +958,6 @@ a.md-button.lp::before {
     background-image: url("https://liberapay.com/assets/liberapay/icon-v2_white-on-yellow.svg");
 }
 
-/* Patreon */
-
-a.md-button.patreon {
-    text-transform: uppercase;
-    background-color: #f96854;
-}
-
-a.md-button.patreon:hover {
-    background-color: #ff424d;
-}
-
-a.md-button.patreon::before {
-    background-image: url("/blog/img/patreon_logo.webp");
-}
-
 /* Donations */
 
 a.md-button.donations {
