@@ -4,7 +4,7 @@ tags: [matrix]
 ---
 
 [Matrix](https://wiki.archlinux.org/index.php/Matrix)
-is a FLOSS protocol for open federated instant messaging.
+is a Free/Libre protocol for open federated instant messaging.
 Matrix ecosystem consists of many servers which can be used for registration.
 This is a list of Matrix servers for people
 who ask what server to choose to register on.
